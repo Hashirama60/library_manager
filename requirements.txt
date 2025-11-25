@@ -1,0 +1,2 @@
+# No external dependencies beyond standard library
+# (json, pathlib, logging, unittest are built-in)
